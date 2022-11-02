@@ -1,32 +1,44 @@
 # Low-Cost, Open-Source Robot for Education (LORE)
 
+![](https://img.shields.io/badge/CAD-SOLIDWORKS-red)
+![](https://img.shields.io/badge/CAD-FreeCAD-red)
+
+![](https://img.shields.io/badge/EDA-EAGLE-yellow)
+![](https://img.shields.io/badge/CAD-KiCad-yellow)
+
+![](https://img.shields.io/badge/IDE-VSCode-blue)
+![](https://img.shields.io/badge/IDE-Arduino-green)
+
 ## Introduction
 
 Welcome to my repository for my Low-Cost, Open-Source Robot for Education (LORE) project.
 
 ## Motivation
 
-The motivation of this project was, at the project's inception, that weren't any low-cost, e.g. less than NZD$100.00, mobile robots that could be used for educational purposes. So, I decided to make one myself.
+I started this project because I was approached by the House of Science, a Science, Technology, Engineering, and Mathematics (STEM) organisation in Tauranga, New Zealand, who needed a low-cost, i.e., less than NZD$100.00, platform that could be used to teach robotics.
+
+The problem was: there wasn't anything on the market at met the organisation's needs, so I decided to build one for them.
 
 ## Aims
 
-The aims of this project include:
-- Developing a low-cost, mobile robot that can be used to teach beginner, intermediate, and advanced students how to program.
+The aims of this project included:
+- Developing a low-cost, mobile robot that can be used to teach beginner, intermediate, and advanced students how to program in C++.
 
 ## Objectives
 
-The objectives of this project include:
+The objectives of this project included:
 - Creating accessible Computer Aided Design (CAD) files.
 - Creating accessible Electronics Design Automation (EDA) files.
 - Creating accessible source code and software libraries.
 - Creating an easy-to-assemble mobile robot that uses an Arduino microcontroller, servo motors, and ultrasonic sensors.
+- Writing clear-to-follow instructions of how to program the mobile robot.
 
 ## Repository Structure
 
 The repository is organised as follows:
 
 ```console
-/LORE         
+/lore         
     /cad                          
         /solidworks                    
         /freecad                       
@@ -37,6 +49,7 @@ The repository is organised as follows:
         /beginner
         /intermediate
         /advanced
+        /LORE
     /doc                      
         /img
         /costing                
@@ -47,13 +60,13 @@ All CAD files can be found in the `/cad` sub-directory. I've included the origin
 
 All EDA files can be found in the `/pcb` sub-directory. I've included the original Eagle files and the open-source equivalents.
 
-All source code and software libaries are included in the `/src` sub-directory.
+All source code and software libaries are included in the `/src` sub-directory. The `/LORE` sub-directory is the Arduino library that is used to program the robot.
 
 Documentation is included in the `/doc` sub-directory.
 
 ## Tools Used
 
-I have used the following tools in this project:
+I used the following tools in this project:
 - SOLIDWORKS and FreeCAD.
 - Eagle and KiCAD.
 - Microsoft Visual Studio and Arduino Integrated Development IDE (IDE).
