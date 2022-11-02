@@ -58,10 +58,10 @@ I have used the following tools in this project:
 - Eagle and KiCAD.
 - Microsoft Visual Studio and Arduino Integrated Development IDE (IDE).
 
-Get FreeCAD here: https://www.freecadweb.org/.
-Get KiCAD here: https://www.kicad.org/.
-Get Arduino IDE here: https://www.arduino.cc/en/software.
-Get Visual Studio here: https://visualstudio.microsoft.com/.
+Get FreeCAD here: https://www.freecadweb.org/.  
+Get KiCAD here: https://www.kicad.org/.  
+Get Arduino IDE here: https://www.arduino.cc/en/software.  
+Get Visual Studio here: https://visualstudio.microsoft.com/.  
 
 Alternatively, you can use Microsoft Visual Studio Code as the IDE.
 
