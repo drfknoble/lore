@@ -13,6 +13,11 @@
 
 Welcome to my repository for my Low-Cost, Open-Source Robot for Education (LORE) project.
 
+<div>
+    <img src="./cad/renders/front.png" style="height:240px;">
+    <img src="./cad/renders/back.png" style="height:240px;">
+</div>
+
 ## Motivation
 
 I started this project because I was approached by the House of Science, a Science, Technology, Engineering, and Mathematics (STEM) organisation in Tauranga, New Zealand, who needed a low-cost, i.e., less than NZD$100.00, platform that could be used to teach robotics.
@@ -41,10 +46,13 @@ The repository is organised as follows:
 /lore         
     /cad                          
         /solidworks                    
-        /freecad                       
+        /freecad  
+        /fabrication
+        /renders                     
     /pcb
         /eagle
         /kicad
+        /fabrication
     /src
         /beginner
         /intermediate
