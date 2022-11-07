@@ -14,8 +14,8 @@
 Welcome to my repository for my Low-Cost, Open-Source Robot for Education (LORE) project.
 
 <div>
-    <img src="./cad/renders/front.png" style="height:240px;">
     <img src="./cad/renders/back.png" style="height:240px;">
+    <img src="./doc/photos/back.jpg" style="height:240px;">
 </div>
 
 ## Motivation
