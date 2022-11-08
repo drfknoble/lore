@@ -57,7 +57,7 @@ The repository is organised as follows:
         /beginner
         /intermediate
         /advanced
-        /LORE
+        /ROBOT
     /doc                      
         /img
         /costing                
@@ -68,7 +68,7 @@ All CAD files can be found in the `/cad` sub-directory. I've included the origin
 
 All EDA files can be found in the `/pcb` sub-directory. I've included the original Eagle files and the open-source equivalents.
 
-All source code and software libaries are included in the `/src` sub-directory. The `/LORE` sub-directory is the Arduino library that is used to program the robot.
+All source code and software libaries are included in the `/src` sub-directory. The `/ROBOT` sub-directory is the Arduino library that is used to program the robot.
 
 Documentation is included in the `/doc` sub-directory.
 
